@@ -53,3 +53,27 @@ For every problem tackled during this challenge, I follow a structured workflow:
 Consistency is better when shared! Feel free to star ⭐ this repository if you find it motivating for your own coding journey. Discussions, alternative approaches, and optimization tips are always welcome via Issues or Pull Requests.
 
 * **Author:** Adari Venkatalakshmi (`@adarivenkatalakshmi70-glitch`)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/adarivenkatalakshmi70-glitch/90-days-coding-challenge/tree/master/0455-assign-cookies) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/adarivenkatalakshmi70-glitch/90-days-coding-challenge/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/adarivenkatalakshmi70-glitch/90-days-coding-challenge/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/adarivenkatalakshmi70-glitch/90-days-coding-challenge/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/adarivenkatalakshmi70-glitch/90-days-coding-challenge/tree/master/0455-assign-cookies) |
+<!---LeetCode Topics End-->
