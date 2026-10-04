@@ -60,6 +60,7 @@ Consistency is better when shared! Feel free to star ⭐ this repository if you 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/adarivenkatalakshmi70-glitch/90-days-coding-challenge/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/adarivenkatalakshmi70-glitch/90-days-coding-challenge/tree/master/0860-lemonade-change) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Consistency is better when shared! Feel free to star ⭐ this repository if you 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/adarivenkatalakshmi70-glitch/90-days-coding-challenge/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/adarivenkatalakshmi70-glitch/90-days-coding-challenge/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
